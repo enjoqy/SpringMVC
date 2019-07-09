@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/SpringMVC_Test02_response/pom.xml" />
         <option value="$PROJECT_DIR$/SpringMVC_Test03_fileupload/pom.xml" />
         <option value="$PROJECT_DIR$/SpringMVC_fileuploadserver/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC_Test04_interceptor/pom.xml" />
       </list>
     </option>
   </component>

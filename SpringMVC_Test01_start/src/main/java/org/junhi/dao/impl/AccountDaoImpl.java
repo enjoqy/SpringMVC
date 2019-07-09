@@ -10,6 +10,7 @@ import org.springframework.stereotype.Repository;
 @Repository("accountDao")
 public class AccountDaoImpl implements AccountDao {
 
+    @Override
     public void saveAccount() {
         System.out.println("---------------");
     }
